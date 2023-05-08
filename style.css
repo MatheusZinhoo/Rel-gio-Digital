@@ -1,17 +1,22 @@
+  .Relógio {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: 60px;
     color: white;
     background: rgba(5, 5, 5, 0.9);
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 7) ;
-    initial-letter: 3px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
 }
-.Relógio span.tempo{
+
+.Relógio span.tempo {
     font-size: 30px;
 }
-.Relógio span.Minutos{
+
+.Relógio span.Minutos {
     font-size: 30px;
 }
-.Relógio span.Segundos{
+
+.Relógio span.Segundos {
     font-size: 30px;
 }
