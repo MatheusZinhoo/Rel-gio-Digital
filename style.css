@@ -1,13 +1,13 @@
-  .Relógio {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: 60px;
-    color: white;
-    background: rgba(5, 5, 5, 0.9);
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
-}
+.Relógio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 60px;
+  color: white;
+  background-color: rgba(5, 5, 5, 0.9);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
+  padding: 20px;
 
 .Relógio span.tempo {
     font-size: 30px;
