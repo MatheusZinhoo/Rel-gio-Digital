@@ -1,4 +1,4 @@
-Relógio {
+.Relógio {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -15,7 +15,7 @@ Relógio {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-
+}
 .Relógio span.tempo {
     font-size: 30px;
 }
