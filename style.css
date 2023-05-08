@@ -16,6 +16,7 @@
   justify-content: center;
   flex-direction: column;
 }
+
 .Relógio span.tempo {
     font-size: 30px;
 }
@@ -27,3 +28,4 @@
 .Relógio span.Segundos {
     font-size: 30px;
 }
+
