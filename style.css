@@ -1,4 +1,4 @@
-.Relógio {
+.relogio {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,23 +9,21 @@
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
   padding: 20px;
 }
-
-.Relógio > div {
+.relogio > div {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
 
-.Relógio span.tempo {
+.relogio span.tempo {
     font-size: 30px;
 }
 
-.Relógio span.Minutos {
+.relogio span.Minutos {
     font-size: 30px;
 }
-
-.Relógio span.Segundos {
+.relogio span.Segundos {
     font-size: 30px;
 }
 
