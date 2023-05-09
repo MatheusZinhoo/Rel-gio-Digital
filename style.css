@@ -26,8 +26,6 @@ body {
   background-color: rgba(5, 5, 5, 0.9);
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
   padding: 10px;
-  align-items: center; /* Adicionado: centraliza verticalmente o conteúdo */
-  justify-content: center;
 }
 
 .relogio span.tempo {
