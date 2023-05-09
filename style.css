@@ -4,13 +4,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
-} 
+}
 
 .relogio {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   font-size: 60px;
   color: white;
   background-color: rgba(5, 5, 5, 0.9);
@@ -19,20 +19,12 @@ body {
 }
 
 .relogio div {
-  height: 170px;
-  width: 150px;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
 .relogio span.tempo {
-  font-size: 30px;
-}
-
-.relogio span.Minutos {
-  font-size: 30px;
-}
-
-.relogio span.Segundos {
   font-size: 30px;
 }
