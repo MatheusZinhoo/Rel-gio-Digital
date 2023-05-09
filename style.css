@@ -10,7 +10,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: nowrap;
   font-size: 60px;
   color: white;
   background-color: rgba(5, 5, 5, 0.9);
