@@ -3,7 +3,8 @@ body {
   background: linear-gradient(120deg, red, yellow);
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start; /* Alterado: alinhamento à esquerda */
+  padding-left: 20px; /* Adicionado: espaço à esquerda para centralizar o relógio */
 }
 
 .relogio {
