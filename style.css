@@ -3,13 +3,12 @@ body {
   background: linear-gradient(120deg, red, yellow);
   display: flex;
   align-items: center;
-  justify-content: flex-start; 
-  padding-left: 20px; 
+  justify-content: center;
 }
 
 .relogio {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column; /* Alterado: direção vertical */
   align-items: center;
   justify-content: space-around;
   height: 200px;
