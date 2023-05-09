@@ -6,7 +6,7 @@ body {
   justify-content: center;
   flex-direction: column;
 } 
-.relogio div {
+.relogio {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -17,8 +17,12 @@ body {
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
   padding: 20px;
 }
-
-
+.relogio div{
+  height: 170px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+}
 .relogio span.tempo {
     font-size: 30px;
 }
